@@ -1,4 +1,3 @@
 1. Adam Mata
 2. Jakub Pietrzak
-3. Michał Popkowicz
-4. Piotr Przybysz
+3. Piotr Przybysz
