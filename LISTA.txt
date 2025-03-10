@@ -6,9 +6,5 @@
 6. Grzegorz Prasek
 7. Agnieszka Przeździecka
 8. Piotr Przybysz
-9. Mykhailo Shamrai
-5. Grzegorz Prasek
-6. Agnieszka Przeździecka
-7. Piotr Przybysz
-8. Jagoda Rusiecka
-9. Mykhailo Shamrai
+9. Jagoda Rusiecka
+10. Mykhailo Shamrai
